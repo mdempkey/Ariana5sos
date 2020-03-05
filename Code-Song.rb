@@ -2,7 +2,6 @@
 sometimes ="C:/Users/martha_dempkey/Desktop/Samples-Song/Ariana Samples/Ariana Grande - Sometimes (Official Studio Acapella).wav"
 ari ="C:/Users/martha_dempkey/Desktop/Samples-Song/Ariana Samples/arif.wav"
 gws = "C:/Users/martha_dempkey/Desktop/Samples-Song/Ariana Samples/gws.wav"
-gws11 ="C:/Users/martha_dempkey/Desktop/Samples-Song/Ariana Samples/soon.wav"
 imh ="C:/Users/martha_dempkey/Desktop/Samples-Song/Ariana Samples/imh0.wav"
 ariana ="C:/Users/martha_dempkey/Desktop/Samples-Song/Ariana Samples/hate.wav"
 need = "C:/Users/martha_dempkey/Desktop/Samples-Song/Ariana Samples/need.wav"
